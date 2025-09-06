@@ -3,7 +3,7 @@
 💻 **Fullstack Developer | Frontend Enthusiast | Problem Solver**  
 
 I’m an Information Science and Engineering student passionate about **building immersive, interactive, and scalable web applications**.  
-With experience in **React, Next.js, Three.js, and MERN stack**, I love blending design and technology to craft user experiences that feel alive.  
+With experience in **React, Next.js, Three.js, Express and Mongodb**, I love blending design and technology to craft user experiences that feel alive.  
 
 ---
 
@@ -32,7 +32,6 @@ With experience in **React, Next.js, Three.js, and MERN stack**, I love blending
 ---
 
 ## 📊 GitHub Stats
-![Tanisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishabhatnagar&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishabhatnagar&layout=compact&theme=radical)  
 
