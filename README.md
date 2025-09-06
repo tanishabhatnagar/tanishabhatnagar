@@ -32,9 +32,9 @@ With experience in **React, Next.js, Three.js, and MERN stack**, I love blending
 ---
 
 ## 📊 GitHub Stats
-![Tanisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanisha-bhatnagar&show_icons=true&theme=radical)  
+![Tanisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishabhatnagar&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha-bhatnagar&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishabhatnagar&layout=compact&theme=radical)  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tanisha-bhatnagar&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
