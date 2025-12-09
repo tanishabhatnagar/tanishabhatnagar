@@ -31,31 +31,6 @@ With experience in **React, Next.js, Three.js, Express and Mongodb**, I love ble
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=tanishabhatnagar&show_icons=true&theme=radical" 
-    alt="Tanisha's GitHub stats" 
-    height="180"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishabhatnagar&layout=compact&theme=radical" 
-    alt="Top Languages" 
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tanishabhatnagar&theme=radical" 
-    alt="GitHub Streak Stats" 
-    height="180"
-  />
-</p>
-
 
 
 ---
